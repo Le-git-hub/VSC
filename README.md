@@ -11,7 +11,7 @@
 - **Python + Flask** – שרת ו־API
 - **python-socketio** – ניהול WebSockets
 - **MySQL** – ניהול בסיס נתונים בעזרת `mysql-connector`
-- **bcrypt** – האשינג מאובטח לסיסמאות
+- **bcrypt** – גיבוב מאובטח לסיסמאות
 
 ### Frontend
 - **React + Next.js + TailwindCSS** – ממשק המשתמש
@@ -26,9 +26,9 @@
 ## ⚙️ איך להריץ?
 
 1. להריץ את השרת (Backend):
-   ```bash
-   python backend/main.py
-   ```
+```bash
+python backend/main.py
+```
 2. להריץ את צד הלקוח (Frontend)
 ```bash
 npm run dev
